@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="images/logo.svg"  />
+  <img height="200" src="easyera-logo.svg"  />
 </div>
 
 ###
